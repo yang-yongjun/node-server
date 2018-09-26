@@ -1,0 +1,11 @@
+dist/
+node_modules/
+npm-debug.log
+node_modules_/
+debug.log
+config/config.js
+config/config.dev.js
+package-lock.json
+.vscode/
+src/assets/sass/common/base-theme.scss
+src/assets/sass/common/base-theme.scss
